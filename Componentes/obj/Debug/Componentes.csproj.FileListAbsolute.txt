@@ -1,0 +1,9 @@
+C:\Users\nti\Documents\SharpDevelop Projects\aula2\Componentes\bin\Debug\Componentes.exe.config
+C:\Users\nti\Documents\SharpDevelop Projects\aula2\Componentes\bin\Debug\Componentes.exe
+C:\Users\nti\Documents\SharpDevelop Projects\aula2\Componentes\bin\Debug\Componentes.pdb
+C:\Users\nti\Documents\SharpDevelop Projects\aula2\Componentes\obj\Debug\Componentes.csprojResolveAssemblyReference.cache
+C:\Users\nti\Documents\SharpDevelop Projects\aula2\Componentes\obj\Debug\Componentes.csproj.GenerateResource.Cache
+C:\Users\nti\Documents\SharpDevelop Projects\aula2\Componentes\obj\Debug\Componentes.exe
+C:\Users\nti\Documents\SharpDevelop Projects\aula2\Componentes\obj\Debug\Componentes.pdb
+C:\Users\nti\Documents\SharpDevelop Projects\aula2\Componentes\obj\Debug\Componentes.F_Principal.resources
+C:\Users\nti\Documents\SharpDevelop Projects\aula2\Componentes\obj\Debug\Componentes.F_secundaria.resources

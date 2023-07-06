@@ -1,0 +1,8 @@
+C:\Users\nti\Documents\SharpDevelop Projects\aula2\aula60\bin\Debug\aula60.exe.config
+C:\Users\nti\Documents\SharpDevelop Projects\aula2\aula60\bin\Debug\aula60.exe
+C:\Users\nti\Documents\SharpDevelop Projects\aula2\aula60\bin\Debug\aula60.pdb
+C:\Users\nti\Documents\SharpDevelop Projects\aula2\aula60\obj\Debug\aula60.csprojResolveAssemblyReference.cache
+C:\Users\nti\Documents\SharpDevelop Projects\aula2\aula60\obj\Debug\aula60.MainForm.resources
+C:\Users\nti\Documents\SharpDevelop Projects\aula2\aula60\obj\Debug\aula60.csproj.GenerateResource.Cache
+C:\Users\nti\Documents\SharpDevelop Projects\aula2\aula60\obj\Debug\aula60.exe
+C:\Users\nti\Documents\SharpDevelop Projects\aula2\aula60\obj\Debug\aula60.pdb
